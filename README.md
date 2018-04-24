@@ -16,7 +16,7 @@ Tokenholders and attendees shall give the reputation to the masters and the dist
 Lumiversity is designed with four compartments: LumiSapiens/Lumitrust/Lumimedia/DAO-Lumiversity at aragon.
 Lumimedia has three products for production which one is MVP and two are ready to be promoted for financing by an open source platform.
 All assessment for products is driven upon a compliance focused on the social impact and the social inclusive adoption as basis for any viable product at lumiversity.
-Talent is one of the master example to be promoted. We distinguished the digital spectrum and the Smart Contracts as a philantropic vehicle onto Lumiversity.
+Talent is one of the use case example to be promoted. We distinguished the digital spectrum and the Smart Contracts as a philantropic vehicle onto Lumiversity.
 
 ##**Governance**:
 There would be three levels at least: one as intrinsic compliance and governance modeling, a blind-wall and mistery governance checking and Aragon governance for DAO Lumiversity. 
